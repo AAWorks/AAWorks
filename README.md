@@ -21,10 +21,10 @@ Took the last few months off to focus on adapting to college and have recently t
 <br>
 
 ### My Favorite Projects
-[![Smithy (2022)](https://img.shields.io/static/v1?label=&message=Smithy&color=5a4ae3&style=flat&logo=&logoColor=white)](http://projectsmithy.com/)
-[![Whitelist UI (2023)](https://img.shields.io/static/v1?label=&message=WhitelistUI&color=FF5F1F&style=flat&logo=&logoColor=white)](https://aaworks-whitelist-ui-app-sze5ej.streamlit.app/)
-[![OnlineMinesweeper (2022)](https://img.shields.io/static/v1?label=&message=Online%20Minesweeper&color=0055FE&style=flat&logo=&logoColor=white)](http://164.92.149.123/home)
-[![WordscapesHack (2020)](https://img.shields.io/static/v1?label=&message=Wordscapes%20Hack&color=2db539&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~aalonso20/homepage.html)
+[![Smithy (2022)](https://img.shields.io/static/v1?label=&message=Smithy%20(2022)&color=5a4ae3&style=flat&logo=&logoColor=white)](http://projectsmithy.com/)
+[![Whitelist UI (2023)](https://img.shields.io/static/v1?label=&message=WhitelistUI%20(2023)&color=FF5F1F&style=flat&logo=&logoColor=white)](https://aaworks-whitelist-ui-app-sze5ej.streamlit.app/)
+[![OnlineMinesweeper (2022)](https://img.shields.io/static/v1?label=&message=Online%20Minesweeper%20(2022)&color=0055FE&style=flat&logo=&logoColor=white)](http://164.92.149.123/home)
+[![WordscapesHack (2020)](https://img.shields.io/static/v1?label=&message=Wordscapes%20Hack%20(2020)&color=2db539&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~aalonso20/homepage.html)
 
 ### My Details
 ![views](https://komarev.com/ghpvc/?username=aaworks&style=flat&color=blueviolet)
