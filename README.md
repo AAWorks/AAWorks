@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there, I'm Alejandro 👋
-I'm enthusiastic about the interconnection of data science, AI, and business, and its potential to positively impact our world. A diligent apprentice, I'm always in search of opportunities to expand my knowledge, skills, and growth as a leader with the aim of being a constructive force for both myself and those around me.
+I'm enthusiastic about the interconnection of data science, AI, and business, and its potential to positively impact our world. I'm always in search of opportunities to expand my knowledge, skills, and growth as a leader with the aim of being a constructive force for both myself and those around me.
 #### What's New
 Recently took a position as a student developer for the University of Chicago and will be a JSIP Fellow at Jane Street Summer 2023.
 <br>
