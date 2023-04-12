@@ -21,7 +21,7 @@ Recently took a position as a student developer for the University of Chicago an
 <br>
 
 ### My Favorite Projects
-[![Automated Hiring Bias (2023)(https://img.shields.io/static/v1?label=&message=Automated%20Hiring%20Bias%20(2023)&color=FF0000&style=flat&logo=&logoColor=white)](https://aaworks-training-bias-exhibit-app-o9yype.streamlit.app/)
+[![Automated Hiring Bias (2023)](https://img.shields.io/static/v1?label=&message=Automated%20Hiring%20Bias%20(2023)&color=FF0000&style=flat&logo=&logoColor=white)](https://aaworks-training-bias-exhibit-app-o9yype.streamlit.app/)
 [![Whitelist UI (2023)](https://img.shields.io/static/v1?label=&message=WhitelistUI%20(2023)&color=FF5F1F&style=flat&logo=&logoColor=white)](https://aaworks-whitelist-ui-app-sze5ej.streamlit.app/)
 [![Smithy (2022)](https://img.shields.io/static/v1?label=&message=Smithy%20(2022)&color=5a4ae3&style=flat&logo=&logoColor=white)](http://projectsmithy.com/)
 [![OnlineMinesweeper (2022)](https://img.shields.io/static/v1?label=&message=Online%20Minesweeper%20(2022)&color=0055FE&style=flat&logo=&logoColor=white)](http://164.92.149.123/home)
