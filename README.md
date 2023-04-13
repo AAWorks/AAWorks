@@ -32,3 +32,4 @@ Recently took a position as a student developer for the University of Chicago an
 [![gmail](https://img.shields.io/static/v1?label=&message=axalonso12@gmail.com&color=D44638&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=axalonso12@gmail.com)
 [![gmail](https://img.shields.io/static/v1?label=&message=aalonso20@uchicago.edu&color=D44638&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aalonso20@uchicago.edu)\
 ![Alejandro's stats](https://github-readme-stats.vercel.app/api?username=aaworks&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)\
+![Alejandro's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaworks&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=30,F9A1F3,A1A4F9&text_color=4607CA&title_color=5100FC)
