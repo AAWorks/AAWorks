@@ -23,8 +23,8 @@ Recently took a position as a student developer for the University of Chicago an
 ### My Favorite Projects
 [![Algorithmic Training Bias in Automated Hiring (2023)](https://img.shields.io/static/v1?label=&message=Algorithmic%20Training%20Bias%20in%20Automated%20Hiring%20(2023)&color=FF0000&style=flat&logo=&logoColor=white)](https://aaworks-training-bias-exhibit-app-o9yype.streamlit.app/)
 [![Whitelist UI w/ Fuzzy Matching (2023)](https://img.shields.io/static/v1?label=&message=Whitelist%20UI%20with%20Fuzzy%20Matching%20(2023)&color=FF5F1F&style=flat&logo=&logoColor=white)](https://aaworks-whitelist-ui-app-sze5ej.streamlit.app/)
-[![Smithy Project Feedback Forum (2022)](https://img.shields.io/static/v1?label=&message=Smithy%20Project%20Reviewal%20System%20(2022)&color=5a4ae3&style=flat&logo=&logoColor=white)](http://projectsmithy.com/)
-[![Wordscapes Word-Puzzle Solver (2020)](https://img.shields.io/static/v1?label=&message=Wordscapes%20Hack%20(2020)&color=2db539&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~aalonso20/homepage.html)
+[![Smithy Project Feedback Forum (2022)](https://img.shields.io/static/v1?label=&message=Smithy%20Project%20Reviewal%20Forum%20(2022)&color=5a4ae3&style=flat&logo=&logoColor=white)](http://projectsmithy.com/)
+[![Wordscapes Word-Puzzle Solver (2020)](https://img.shields.io/static/v1?label=&message=Wordscapes%20Word%20Puzzle%20Solver%20(2020)&color=2db539&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~aalonso20/homepage.html)
 
 ### My Details
 ![views](https://komarev.com/ghpvc/?username=aaworks&style=flat&color=blueviolet)
