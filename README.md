@@ -24,7 +24,7 @@ Recently took a position as a student developer for the University of Chicago an
 [![Algorithmic Training Bias in Automated Hiring (2023)](https://img.shields.io/static/v1?label=&message=Algorithmic%20Training%20Bias%20in%20Automated%20Hiring%20(2023)&color=FF0000&style=flat&logo=&logoColor=white)](https://aaworks-training-bias-exhibit-app-o9yype.streamlit.app/)<br>
 [![Whitelist UI w/ Fuzzy Matching (2023)](https://img.shields.io/static/v1?label=&message=Whitelist%20UI%20with%20Fuzzy%20Matching%20(2023)&color=FF5F1F&style=flat&logo=&logoColor=white)](https://aaworks-whitelist-ui-app-sze5ej.streamlit.app/)<br>
 [![Smithy Project Feedback Forum (2022)](https://img.shields.io/static/v1?label=&message=Smithy%20Project%20Reviewal%20Forum%20(2022)&color=5a4ae3&style=flat&logo=&logoColor=white)](http://projectsmithy.com/)<br>
-[![Art Genre Image Recognition Algorithm (2022)](https://img.shields.io/static/v1?label=&message=Art%20Genre%20Image%20Recognition%20Algorithm%20(2022)&color=5a4ae3&style=flat&logo=&logoColor=white)](http://projectsmithy.com/)<br>
+[![Art Genre Image Recognition Algorithm (2022)](https://img.shields.io/static/v1?label=&message=Art%20Genre%20Image%20Recognition%20Algorithm%20(2022)&color=yellow&style=flat&logo=&logoColor=white)](http://github.com/AAWorks/art-style-recognition/)<br>
 [![Wordscapes Word-Puzzle Solver (2020)](https://img.shields.io/static/v1?label=&message=Wordscapes%20Word%20Puzzle%20Solver%20(2020)&color=2db539&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~aalonso20/homepage.html)<br>
 
 ### My Details
