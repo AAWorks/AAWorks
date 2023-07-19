@@ -21,7 +21,7 @@ Recently took a position as a student developer for the University of Chicago an
 <br>
 
 ### My Favorite Projects
-[![Global Options Pricing (2023)](https://img.shields.io/static/v1?label=&message=Global%20Options%20Pricing%20(2023)&color=blue&style=flat&logo=&logoColor=white)](https://github.com/AAWorks/options-pricing)<br>
+[![Global Markets Options Pricing (2023)](https://img.shields.io/static/v1?label=&message=Global%20Markets%20Options%20Pricing%20(2023)&color=blue&style=flat&logo=&logoColor=white)](https://github.com/AAWorks/options-pricing)<br>
 [![Soccer Match Result Prediction Algorithm (2023)](https://img.shields.io/static/v1?label=&message=Soccer%20Match%20Result%20Prediction%20Algorithm%20(2023)&color=green&style=flat&logo=&logoColor=white)](https://github.com/AAWorks/sop-bot)<br>
 [![Profitable ETC Trading Bot (2023)](https://img.shields.io/static/v1?label=&message=Profitable%20ETC%20Trading%20Bot%20(2023)&color=blue&style=flat&logo=&logoColor=white)](https://github.com/AAWorks/etc)<br>
 [![Algorithmic Training Bias in Automated Hiring (2023)](https://img.shields.io/static/v1?label=&message=Algorithmic%20Training%20Bias%20in%20Automated%20Hiring%20(2023)&color=FF0000&style=flat&logo=&logoColor=white)](https://aaworks-training-bias-exhibit-app-o9yype.streamlit.app/)<br>
