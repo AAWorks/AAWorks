@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there, I'm Alejandro 👋
-I'm enthusiastic about the interconnection of computer science, data engineering, and finance, and its potential to positively impact our world. I'm always in search of opportunities to expand my knowledge, skills, and growth as a leader with the aim of being a constructive force for both myself and those around me.
+I'm enthusiastic about the interconnection of computer science, data engineering, and statistics, and their potential to abstractify complex problems and positively impact our world. I'm always in search of opportunities to expand my knowledge, skills, and growth as a leader with the aim of being a constructive force for both myself and those around me.
 <br>
 
 ### Some of My Favorite Projects
