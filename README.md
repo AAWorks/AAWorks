@@ -25,7 +25,7 @@ Implemented traditional Black Scholes, Binomial Tree, and Monte Carlo pricing me
 #### Soccer Outcome Prediction Bot - https://sop-bot.streamlit.app/
 Designed a TensorFlow/Keras deep neural network, which reached 71.34% test accuracy with minimal overfitting (with seeded
 weights) displayed on a web app. Built data scraping/aggregation/normalization utils to parse and regularize live soccer data.
-#### Web-Based Project Feedback Forum - https://github.com/aaworks/project-smithy
+#### Web-Based Project Feedback Forum - https://github.com/aaworks/project-smithy (previously hosted at projectsmithy.com)
 Led a 4-student team to create a web app, database system, and admin dashboard using Python, Flask, SQLite, JS, Bootstrap, and bcrypt password hashing to facilitate project display & feedback. Made for use by a high school class with ~50 students per year.
 
 ---
