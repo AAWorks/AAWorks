@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Alejandro 👋
+### Hi there, I'm Alejandro, a Computer Science and Astrophysics Dual Major at the University of Chicago
 I'm enthusiastic about the interconnection of computer science, data engineering, and statistics, and their potential to abstractify complex problems and positively impact our world. I'm always in search of opportunities to expand my knowledge, skills, and growth as a leader with the aim of being a constructive force for both myself and those around me.
 <br>
+
+![views](https://komarev.com/ghpvc/?username=aaworks&style=flat&color=blueviolet)
+[![gmail](https://img.shields.io/static/v1?label=&message=axalonso12@gmail.com&color=D44638&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=axalonso12@gmail.com)
+[![gmail](https://img.shields.io/static/v1?label=&message=aalonso20@uchicago.edu&color=D44638&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aalonso20@uchicago.edu)
 
 ---
 ### Personal Projects (T3)
@@ -37,8 +41,3 @@ Led a 4-student team to create a web app, database system, and admin dashboard u
 [![Whitelist UI w/ Fuzzy Matching (2023)](https://img.shields.io/static/v1?label=&message=Whitelist%20UI%20with%20Fuzzy%20Matching%20(2023)&color=FF5F1F&style=flat&logo=&logoColor=white)](https://aaworks-whitelist-ui-app-sze5ej.streamlit.app/)<br>
 [![Art Genre Image Recognition Algorithm (2022)](https://img.shields.io/static/v1?label=&message=Art%20Genre%20Image%20Recognition%20Algorithm%20(2022)&color=yellow&style=flat&logo=&logoColor=white)](http://github.com/AAWorks/art-style-recognition/)<br>
 [![Wordscapes Word-Puzzle Solver (2020)](https://img.shields.io/static/v1?label=&message=Wordscapes%20Word%20Puzzle%20Solver%20(2020)&color=2db539&style=flat&logo=&logoColor=white)](http://moe.stuy.edu/~aalonso20/homepage.html)<br>
-
-### My Details
-![views](https://komarev.com/ghpvc/?username=aaworks&style=flat&color=blueviolet)
-[![gmail](https://img.shields.io/static/v1?label=&message=axalonso12@gmail.com&color=D44638&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=axalonso12@gmail.com)
-[![gmail](https://img.shields.io/static/v1?label=&message=aalonso20@uchicago.edu&color=D44638&style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aalonso20@uchicago.edu)
