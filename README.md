@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there, I'm Alejandro, a Computer Science and Astrophysics Dual Major at the University of Chicago
-I'm enthusiastic about the interconnection of computer science, data engineering, and statistics, and their potential to abstractify complex problems and positively impact our world. I'm always in search of opportunities to expand my knowledge, skills, and growth as a leader with the aim of being a constructive force for both myself and those around me.
+Alejandro is a current sophomore at the University of Chicago studying Computer Science and Astrophysics. Over the past two years Alejandro has worked with teams at various institutions including Jane Street, Paragon National Group, and UChicago's Network Architecture Department in software development and quantitative research roles and has completed fellowships at D.E. Shaw and Sixth Street. Most recently he founded East Edge Securities, a Chicago-based multi-strategy investment manager where he is currently a managing partner. He is heavily involved in his collegiate community, heading recruitment for the UChicago chapter of BlackGen Capital and serving on his fraternity’s executive committee. Lastly, he is a native New Yorker and enjoys soccer, poker, and mixing music.
 <br>
 
 ![views](https://komarev.com/ghpvc/?username=aaworks&style=flat&color=blueviolet)
