@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Alejandro, a Computer Science and Astrophysics Dual Major at the University of Chicago
-Alejandro is a current sophomore at the University of Chicago studying Computer Science and Astrophysics. Over the past two years Alejandro has worked with teams at various institutions including Jane Street, Paragon National Group, and UChicago's Network Architecture Department in software development and quantitative research roles and has completed fellowships at D.E. Shaw and Sixth Street. Most recently he founded East Edge Securities, a Chicago-based multi-strategy investment manager where he is currently a managing partner. He is heavily involved in his collegiate community, heading recruitment for the UChicago chapter of BlackGen Capital and serving on his fraternity’s executive committee. Lastly, he is a native New Yorker and enjoys soccer, poker, and mixing music.
+### Hi there, I'm Alejandro
+I'm a current sophomore at the University of Chicago studying Computer Science and Astrophysics. Over the past two years I've spent time with various institutions including Jane Street, Paragon National Group, and UChicago's Network Architecture Department in software development and quantitative research roles and have completed brief fellowships at D.E. Shaw and Sixth Street. Most recently I founded East Edge Securities, a Chicago-based multi-strategy investment manager where I am currently a managing partner. I am heavily involved in my collegiate community, heading recruitment for the UChicago chapter of BlackGen Capital and serving on my fraternity’s executive committee. Lastly, I'm a native New Yorker and an avid soccer, poker, and music enthusiast.
 <br>
 
 ![views](https://komarev.com/ghpvc/?username=aaworks&style=flat&color=blueviolet)
