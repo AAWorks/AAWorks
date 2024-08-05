@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Alejandro
-I'm a current sophomore at the University of Chicago studying Computer Science and Astrophysics. Over the past two years I've spent time with various institutions including Jane Street, Paragon National Group, and UChicago's Network Architecture Department in software development and quantitative research roles and have completed brief fellowships at D.E. Shaw and Sixth Street. Most recently I founded East Edge Securities, a Chicago-based multi-strategy investment manager where I am currently a managing partner. I am heavily involved in my collegiate community, heading recruitment for the UChicago chapter of BlackGen Capital and serving on my fraternity’s executive committee. Lastly, I'm a native New Yorker and an avid soccer, poker, and music enthusiast.
+### Alejandro Alonso
+I'm a rising Junior at the University of Chicago studying Computer Science and Astrophysics. Over the past two years I've spent time with various institutions including Jane Street, Paragon National Group, and UChicago's Network Architecture Department in software development and quantitative research roles and have completed brief fellowships at D.E. Shaw and Sixth Street. Most recently I founded East Edge Securities, a Chicago-based multi-strategy investment manager where I am currently a managing partner. I am heavily involved in my collegiate community, heading recruitment for the UChicago chapter of BlackGen Capital and serving on my fraternity’s executive committee. This summer, I'll be interning with Morgan Stanley. Lastly, I'm a native New Yorker and an avid soccer, poker, and music enthusiast.
 <br>
 
 ![views](https://komarev.com/ghpvc/?username=aaworks&style=flat&color=blueviolet)
