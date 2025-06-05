@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### Alejandro Alonso
-I'm a rising Junior at the University of Chicago studying Computer Science and Astrophysics. Over the past few years I've spent time with various institutions including Morgan Stanley, Jane Street, Paragon National Group, and UChicago's Network Architecture Department in software development and quantitative research roles and have completed brief fellowships at D.E. Shaw and Sixth Street. Most recently I founded East Edge Securities, a Chicago-based multi-strategy investment manager. I am heavily involved in my collegiate community, heading recruitment for the UChicago chapter of BlackGen Capital and serving on my fraternity’s executive committee. This summer, I'll be returning to Morgan Stanley as a software engineering intern. Lastly, I'm a native New Yorker and an avid soccer, poker, and music enthusiast.
+I’m a rising senior at the University of Chicago majoring in Computer Science with a minor in Astrophysics & Astronomy. I’ve worked on trading analytics and ops-tech tooling within Morgan Stanley's Fixed Income Tech and Institutional Securities Tech Management Divisions, participated as a JSIP SWE fellow at Jane Street, and am currently architecting org-wide platforms as CTO of Paragon Global Investments. Additionally, I co-founded East Edge Securities, a Chicago-based multi-strategy fund that operated for ~2 years, founded and lead recruitment for BlackGen Capital’s UChicago chapter, and have served in various executive board roles throughout my community's organizations. Born and raised in New York City, I'm a big fan of soccer, poker, and mixing electronic music. 
 <br>
 
 ![views](https://komarev.com/ghpvc/?username=aaworks&style=flat&color=blueviolet)
