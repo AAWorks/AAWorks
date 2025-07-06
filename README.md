@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### Alejandro Alonso
-I’m a rising senior at the University of Chicago majoring in Computer Science with a minor in Astrophysics & Astronomy. I’ve worked on trading analytics and ops-tech tooling within Morgan Stanley's Fixed Income Tech and Institutional Securities Tech Management Divisions, participated as a JSIP SWE fellow at Jane Street, and am currently architecting org-wide platforms as CTO of Paragon Global Investments. Additionally, I co-founded East Edge Securities, a Chicago-based multi-strategy fund that operated for ~2 years, founded and lead recruitment for BlackGen Capital’s UChicago chapter, and have served in various executive board roles throughout my community's organizations. Born and raised in New York City, I'm a big fan of soccer, poker, and mixing electronic music. 
+I’m a rising senior at the University of Chicago majoring in Computer Science with a minor in Astrophysics & Astronomy. I’ve worked on trading analytics and ops-tech tooling within Morgan Stanley's Fixed Income Tech and Institutional Securities Tech Management Divisions, participated as a JSIP SWE fellow at Jane Street, and am currently architecting org-wide platforms as CTO of Paragon Global Investments. Additionally, I co-founded East Edge Securities, a Chicago-based multi-strategy fund that operated for ~2 years, founded and lead recruitment for BlackGen Capital’s UChicago chapter, and have served in various executive board roles throughout my community's organizations. Born and raised in New York City, I'm a big fan of soccer, poker, and EDM. 
 <br>
 
 ![views](https://komarev.com/ghpvc/?username=aaworks&style=flat&color=blueviolet)
