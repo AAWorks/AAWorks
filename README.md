@@ -35,8 +35,6 @@ Led a 4-student team to create a web app, database system, and admin dashboard u
 ---
 ### Honorable Mentions
 [![Real Estate Appraisal Game (2023)](https://img.shields.io/static/v1?label=&message=Real%20Estate%20Appraisal%20Game%20(2023)&color=indigo&style=flat&logo=&logoColor=white)](https://github.com/AAWorks/real_estate_appraisal_sim)<br>
-[![Profitable ETC Trading Bot (Private Repo) (2023)](https://img.shields.io/static/v1?label=&message=Profitable%20ETC%20Trading%20Bot%20(2023)&color=blue&style=flat&logo=&logoColor=white)](https://github.com/AAWorks)<br>
-[![Orbit (2023)](https://img.shields.io/static/v1?label=&message=Orbit%20Poker%20Ledger%20(2023)&color=grey&style=flat&logo=&logoColor=white)](https://github.com/AAWorks/orbit)<br>
 [![Algorithmic Training Bias in Automated Hiring (2023)](https://img.shields.io/static/v1?label=&message=Algorithmic%20Training%20Bias%20in%20Automated%20Hiring%20(2023)&color=FF0000&style=flat&logo=&logoColor=white)](https://aaworks-training-bias-exhibit-app-o9yype.streamlit.app/)<br>
 [![Whitelist UI w/ Fuzzy Matching (2023)](https://img.shields.io/static/v1?label=&message=Whitelist%20UI%20with%20Fuzzy%20Matching%20(2023)&color=FF5F1F&style=flat&logo=&logoColor=white)](https://aaworks-whitelist-ui-app-sze5ej.streamlit.app/)<br>
 [![Art Genre Image Recognition Algorithm (2022)](https://img.shields.io/static/v1?label=&message=Art%20Genre%20Image%20Recognition%20Algorithm%20(2022)&color=yellow&style=flat&logo=&logoColor=white)](http://github.com/AAWorks/art-style-recognition/)<br>
